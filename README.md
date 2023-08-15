@@ -11,7 +11,7 @@
 
 ## General Information
 - This assignment is a programming assignment wherein you have to build a ML model for prediction of telecom churn based on available independent variables.
-- For this project, we are using the data provided in the CNN_assignment folder.
+- For this project, we are using the data ![download data](https://drive.google.com/file/d/1Zg6b-M_FXkLehP3P9eeqkcrJV8H4Clzc/view?usp=drive_link).
 
 ## Conclusions
 - We built a CNN model which predicts the class based on the image provided.
